@@ -1,0 +1,3 @@
+cd C:\Users\divin\exe2iso
+venv\Scripts\activate
+notepad exe_to_iso.py
